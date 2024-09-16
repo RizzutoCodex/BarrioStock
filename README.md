@@ -42,4 +42,6 @@ Seguridad:
 - Control de acceso basado en roles.
 - Auditoría de las acciones realizadas por los usuarios.
 
+Todo esto será implementado con el lenguaje de programación JAVA.
+
 ![image](https://github.com/RizzutoCodex/BarrioStock/blob/49028745b30482b64149f82f101aa3c28de9d553/BarrioStock_Componentes.png)
